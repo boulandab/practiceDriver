@@ -1,0 +1,518 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/aziz/Projects/build-indi-Desktop-Debug/CMakeFiles/3.19.0/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/aziz/Projects/build-indi-Desktop-Debug/CMakeFiles/3.19.0/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/aziz/Projects/build-indi-Desktop-Debug/CMakeFiles/3.19.0/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Internal/CMakeCheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FeatureSummary.cmake"
+		},
+		{
+			"path" : "cmake_modules/CMakeCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"path" : "cmake_modules/UnityBuild.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindCFITSIO.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindCFITSIO.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindNova.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindUSB1.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake_modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindCURL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindGSL.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake_modules/CMakeParseArguments.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindJPEG.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake_modules/CMakeParseArguments.cmake"
+		},
+		{
+			"path" : "config-usb.h.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindOggTheora.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake_modules/CMakeParseArguments.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindFFTW3.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindFFTW3.cmake"
+		},
+		{
+			"path" : "libindi.pc.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindGTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/GoogleTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/aziz/Qt/Tools/CMake/share/cmake-3.19/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"path" : "cmake_modules/FindGMock.cmake"
+		},
+		{
+			"path" : "config.h.cmake"
+		},
+		{
+			"path" : "indiversion.h.cmake"
+		},
+		{
+			"path" : "libs/indibase/alignment/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial_one/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial_two/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial_three/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial_four/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial_five/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial_six/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial_seven/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/tutorial_eight/CMakeLists.txt"
+		},
+		{
+			"path" : "examples/practice_driver/CMakeLists.txt"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/aziz/Projects/build-indi-Desktop-Debug",
+		"source" : "/home/aziz/Projects/indi"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

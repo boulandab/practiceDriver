@@ -1,0 +1,328 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "indi_getprop"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"install",
+			"add_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1706,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 1710,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 62,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 164,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 165,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 306,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 308,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 310,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 311,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 315,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=gnu99 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -Wa,--noexecstack  -Wall -Wextra -Wno-unused-but-set-variable -Wno-format-truncation -g -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "GIT_TAG_STRING=\"v1.8.7-29-g5a8c8b54\""
+				},
+				{
+					"backtrace" : 4,
+					"define" : "WITH_ENCLEN"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/aziz/Projects/build-indi-Desktop-Debug"
+				},
+				{
+					"path" : "/home/aziz/Projects/indi"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/aziz/Projects/indi/libs"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/aziz/Projects/indi/libs/indibase"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/aziz/Projects/indi/libs/dsp"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/aziz/Projects/indi/libs/stream"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/usr/include/libnova"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/usr/include/libusb-1.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/aziz/Projects/indi/libs/webcam"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				5
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -Wa,--noexecstack  -Wall -Wextra -Wno-unused-but-set-variable -Wno-format-truncation -g -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "GIT_TAG_STRING=\"v1.8.7-29-g5a8c8b54\""
+				},
+				{
+					"backtrace" : 4,
+					"define" : "WITH_ENCLEN"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/aziz/Projects/build-indi-Desktop-Debug"
+				},
+				{
+					"path" : "/home/aziz/Projects/indi"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/aziz/Projects/indi/libs"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/aziz/Projects/indi/libs/indibase"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/aziz/Projects/indi/libs/dsp"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/aziz/Projects/indi/libs/stream"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/usr/include/libnova"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/usr/include/libusb-1.0"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/aziz/Projects/indi/libs/webcam"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				4
+			]
+		}
+	],
+	"id" : "indi_getprop::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -Wa,--noexecstack  -Wall -Wextra -Wno-unused-but-set-variable -Wno-format-truncation -g -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-z,nodump -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -pie    -rdynamic",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-lnova",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lz",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "indi_getprop",
+	"nameOnDisk" : "indi_getprop",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "eventloop.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "base64.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "tools/getINDIproperty.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/lilxml.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "libs/libastro.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/indicom.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

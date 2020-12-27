@@ -1,0 +1,1336 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96,
+						97,
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104,
+						105,
+						106,
+						107,
+						108,
+						109,
+						110,
+						111,
+						112,
+						113
+					]
+				},
+				{
+					"build" : "libs/indibase/alignment",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "libs/indibase/alignment",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						88,
+						89
+					]
+				},
+				{
+					"build" : "examples",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples"
+				},
+				{
+					"build" : "examples/tutorial_one",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/tutorial_one",
+					"targetIndexes" : 
+					[
+						119
+					]
+				},
+				{
+					"build" : "examples/tutorial_two",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/tutorial_two",
+					"targetIndexes" : 
+					[
+						123
+					]
+				},
+				{
+					"build" : "examples/tutorial_three",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/tutorial_three",
+					"targetIndexes" : 
+					[
+						122
+					]
+				},
+				{
+					"build" : "examples/tutorial_four",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/tutorial_four",
+					"targetIndexes" : 
+					[
+						118
+					]
+				},
+				{
+					"build" : "examples/tutorial_five",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/tutorial_five",
+					"targetIndexes" : 
+					[
+						116,
+						120
+					]
+				},
+				{
+					"build" : "examples/tutorial_six",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/tutorial_six",
+					"targetIndexes" : 
+					[
+						115
+					]
+				},
+				{
+					"build" : "examples/tutorial_seven",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/tutorial_seven",
+					"targetIndexes" : 
+					[
+						121
+					]
+				},
+				{
+					"build" : "examples/tutorial_eight",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/tutorial_eight",
+					"targetIndexes" : 
+					[
+						117
+					]
+				},
+				{
+					"build" : "examples/practice_driver",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/practice_driver",
+					"targetIndexes" : 
+					[
+						114
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					],
+					"name" : "libindi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90,
+						91,
+						92,
+						93,
+						94,
+						95,
+						96,
+						97,
+						98,
+						99,
+						100,
+						101,
+						102,
+						103,
+						104,
+						105,
+						106,
+						107,
+						108,
+						109,
+						110,
+						111,
+						112,
+						113,
+						114,
+						115,
+						116,
+						117,
+						118,
+						119,
+						120,
+						121,
+						122,
+						123
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "AlignmentClient::@f23f396fb071564bf837",
+					"jsonFile" : "target-AlignmentClient-Debug-9d614ecc244869902072.json",
+					"name" : "AlignmentClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "AlignmentDriver::@f23f396fb071564bf837",
+					"jsonFile" : "target-AlignmentDriver-Debug-e32aed6729b7e7bd0d61.json",
+					"name" : "AlignmentDriver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "indi_SVD_MathPlugin::@f23f396fb071564bf837",
+					"jsonFile" : "target-indi_SVD_MathPlugin-Debug-8174d9576fa75cfa8658.json",
+					"name" : "indi_SVD_MathPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_aaf2_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_aaf2_focus-Debug-7ba7704ed2199a0fdd7d.json",
+					"name" : "indi_aaf2_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_arduinost4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_arduinost4-Debug-5b81a4824b469b0725ac.json",
+					"name" : "indi_arduinost4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_astromech_lpm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_astromech_lpm-Debug-adb257f286919caaab56.json",
+					"name" : "indi_astromech_lpm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_astrometry::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_astrometry-Debug-4d627e61ad6ba7a2e2bf.json",
+					"name" : "indi_astrometry",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_baader_dome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_baader_dome-Debug-d11c132687e11f2026df.json",
+					"name" : "indi_baader_dome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_celestron_gps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_celestron_gps-Debug-72e3d6a42127f1d90dbe.json",
+					"name" : "indi_celestron_gps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_celestron_sct_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_celestron_sct_focus-Debug-d652e09a68ba066c399b.json",
+					"name" : "indi_celestron_sct_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_deepskydad_af1_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_deepskydad_af1_focus-Debug-fad2c21de6a9e109385e.json",
+					"name" : "indi_deepskydad_af1_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_deepskydad_af2_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_deepskydad_af2_focus-Debug-ef0ebc876e12f4b5b9ca.json",
+					"name" : "indi_deepskydad_af2_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_deepskydad_af3_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_deepskydad_af3_focus-Debug-2d4d18385d6b5e68022b.json",
+					"name" : "indi_deepskydad_af3_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_dmfc_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_dmfc_focus-Debug-811de1dad6fd18268c83.json",
+					"name" : "indi_dmfc_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_domepro2_dome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_domepro2_dome-Debug-6b2b98b96a09829aa74d.json",
+					"name" : "indi_domepro2_dome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_dsc_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_dsc_telescope-Debug-a43e79444781a4ca2e63.json",
+					"name" : "indi_dsc_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_efa_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_efa_focus-Debug-8ca75b09038f055ce8c2.json",
+					"name" : "indi_efa_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_eval::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_eval-Debug-210a8888ffdb0dcc3a3a.json",
+					"name" : "indi_eval",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_falcon_rotator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_falcon_rotator-Debug-bfb3df72d7032d04355b.json",
+					"name" : "indi_falcon_rotator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_fcusb_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_fcusb_focus-Debug-744a914e7ad5be419bfa.json",
+					"name" : "indi_fcusb_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_flipflat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_flipflat-Debug-313f9d0659db2d3fc74e.json",
+					"name" : "indi_flipflat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_gemini_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_gemini_focus-Debug-8b66de94096cf8d0eded.json",
+					"name" : "indi_gemini_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_getprop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_getprop-Debug-f6509bb12770b87b0d31.json",
+					"name" : "indi_getprop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_gpusb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_gpusb-Debug-3bab681ccf3c3237c2f9.json",
+					"name" : "indi_gpusb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_hid_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_hid_test-Debug-0900d7d5b46ffb6a3a89.json",
+					"name" : "indi_hid_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_hitecastrodc_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_hitecastrodc_focus-Debug-a6d4a6d342ce285e5322.json",
+					"name" : "indi_hitecastrodc_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_ieq_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_ieq_telescope-Debug-f2f8c7821552cc2339b9.json",
+					"name" : "indi_ieq_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_ieqlegacy_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_ieqlegacy_telescope-Debug-edeb692364a51b4a8bc5.json",
+					"name" : "indi_ieqlegacy_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_imager_agent::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_imager_agent-Debug-1dc2189d321df0af8286.json",
+					"name" : "indi_imager_agent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_integra_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_integra_focus-Debug-17414004dddc30d2254d.json",
+					"name" : "indi_integra_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_ioptronv3_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_ioptronv3_telescope-Debug-905e4dd888ae67588c0f.json",
+					"name" : "indi_ioptronv3_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_joystick::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_joystick-Debug-951e47746c04d12a33f7.json",
+					"name" : "indi_joystick",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_lacerta_mfoc_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_lacerta_mfoc_focus-Debug-7d1ab6cc596d5d605622.json",
+					"name" : "indi_lacerta_mfoc_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_lakeside_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_lakeside_focus-Debug-733e4ae6ac498efe293a.json",
+					"name" : "indi_lakeside_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_lx200_TeenAstro::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_lx200_TeenAstro-Debug-de863ac85b0bbfab7fe0.json",
+					"name" : "indi_lx200_TeenAstro",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_lx200basic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_lx200basic-Debug-a1748b866ce10d70aed8.json",
+					"name" : "indi_lx200basic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_lx200generic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_lx200generic-Debug-d6876f9f4f7aeaa65083.json",
+					"name" : "indi_lx200generic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_lynx_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_lynx_focus-Debug-38cfdd21abddbd7ad941.json",
+					"name" : "indi_lynx_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_manual_wheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_manual_wheel-Debug-26154490517788741f8c.json",
+					"name" : "indi_manual_wheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_mbox_weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_mbox_weather-Debug-da3d62f747fc30f0bcac.json",
+					"name" : "indi_mbox_weather",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_meta_weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_meta_weather-Debug-ccd18b0f0607945b5634.json",
+					"name" : "indi_meta_weather",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_microtouch_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_microtouch_focus-Debug-d18d047f38f15c7d1262.json",
+					"name" : "indi_microtouch_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_moonlite_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_moonlite_focus-Debug-0dce29a2de6939a058ff.json",
+					"name" : "indi_moonlite_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_moonlitedro_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_moonlitedro_focus-Debug-aa74f05b49ed31ae8768.json",
+					"name" : "indi_moonlitedro_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_myfocuserpro2_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_myfocuserpro2_focus-Debug-48603c42697a1238dd95.json",
+					"name" : "indi_myfocuserpro2_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_nfocus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_nfocus-Debug-a61fac78b555d0e6c314.json",
+					"name" : "indi_nfocus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_nightcrawler_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_nightcrawler_focus-Debug-23e75a71b8313e001e89.json",
+					"name" : "indi_nightcrawler_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_nstep_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_nstep_focus-Debug-07687cd76719eedbf72b.json",
+					"name" : "indi_nstep_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_onfocus_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_onfocus_focus-Debug-a0900704ff70a4b6794b.json",
+					"name" : "indi_onfocus_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_openweathermap_weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_openweathermap_weather-Debug-8a8924e32acc69fa9ad8.json",
+					"name" : "indi_openweathermap_weather",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_optec_wheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_optec_wheel-Debug-e0c0ffc4656cd3c21b45.json",
+					"name" : "indi_optec_wheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_paramount_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_paramount_telescope-Debug-d1feb33a6610921203e7.json",
+					"name" : "indi_paramount_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_pegasus_ppb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_pegasus_ppb-Debug-778a8212043f0113211c.json",
+					"name" : "indi_pegasus_ppb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_pegasus_ppba::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_pegasus_ppba-Debug-7103891717448844cf58.json",
+					"name" : "indi_pegasus_ppba",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_pegasus_upb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_pegasus_upb-Debug-1f988655310a30650a0e.json",
+					"name" : "indi_pegasus_upb",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_perfectstar_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_perfectstar_focus-Debug-f620304158317c4f94d9.json",
+					"name" : "indi_perfectstar_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_planewave_deltat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_planewave_deltat-Debug-6cc008ee2332bce2a72c.json",
+					"name" : "indi_planewave_deltat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_pmc8_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_pmc8_telescope-Debug-1e870d5bd1bbfe5a6953.json",
+					"name" : "indi_pmc8_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_pyxis_rotator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_pyxis_rotator-Debug-55f36752cb09e823b071.json",
+					"name" : "indi_pyxis_rotator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_qhycfw1_wheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_qhycfw1_wheel-Debug-18a3963849e234e33b5b.json",
+					"name" : "indi_qhycfw1_wheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_qhycfw2_wheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_qhycfw2_wheel-Debug-90eef490c731dd1e7f63.json",
+					"name" : "indi_qhycfw2_wheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_qhycfw3_wheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_qhycfw3_wheel-Debug-4016498e9a2b555526af.json",
+					"name" : "indi_qhycfw3_wheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_quantum_wheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_quantum_wheel-Debug-bd147943076cd94a5400.json",
+					"name" : "indi_quantum_wheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_rainbow_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_rainbow_telescope-Debug-6d4181fe8d2ee14b43a1.json",
+					"name" : "indi_rainbow_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_rbfocus_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_rbfocus_focus-Debug-99e958d5da3483e5ea4d.json",
+					"name" : "indi_rbfocus_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_rigel_dome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_rigel_dome-Debug-6abce612e64986e96b37.json",
+					"name" : "indi_rigel_dome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_robo_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_robo_focus-Debug-4bca9d91c06626ed5577.json",
+					"name" : "indi_robo_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_rolloff_dome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_rolloff_dome-Debug-aea00355fa14915a5e7b.json",
+					"name" : "indi_rolloff_dome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_scopedome_dome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_scopedome_dome-Debug-4ff755efd18356c63da9.json",
+					"name" : "indi_scopedome_dome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_script_dome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_script_dome-Debug-922527e4c999fd10263d.json",
+					"name" : "indi_script_dome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_script_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_script_telescope-Debug-96cce8e95c2fb6547448.json",
+					"name" : "indi_script_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_sestosenso2_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_sestosenso2_focus-Debug-4617d625ab6836900330.json",
+					"name" : "indi_sestosenso2_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_sestosenso_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_sestosenso_focus-Debug-b080decc8d9cfaa5f7fe.json",
+					"name" : "indi_sestosenso_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_setprop::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_setprop-Debug-98fd1fe836b7b40465f6.json",
+					"name" : "indi_setprop",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_siefs_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_siefs_focus-Debug-ff09189321c710253500.json",
+					"name" : "indi_siefs_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_ccd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_ccd-Debug-3ba8968c249ec30b4e87.json",
+					"name" : "indi_simulator_ccd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_dome::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_dome-Debug-3e36ecd1fb9893380937.json",
+					"name" : "indi_simulator_dome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_focus-Debug-7ac998988d87bfb0f955.json",
+					"name" : "indi_simulator_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_gps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_gps-Debug-90ed5b8e065beab9bc91.json",
+					"name" : "indi_simulator_gps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_guide::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_guide-Debug-2e98e09faed6328ac659.json",
+					"name" : "indi_simulator_guide",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_rotator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_rotator-Debug-60d0f3ad2b660b001b3d.json",
+					"name" : "indi_simulator_rotator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_spectrograph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_spectrograph-Debug-aece4644b27ea002d206.json",
+					"name" : "indi_simulator_spectrograph",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_sqm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_sqm-Debug-63dddf824d8c01eb31ad.json",
+					"name" : "indi_simulator_sqm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_telescope-Debug-3c3e102ad384f8faa47c.json",
+					"name" : "indi_simulator_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_weather-Debug-71e4702f9d9a69e81917.json",
+					"name" : "indi_simulator_weather",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_simulator_wheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_simulator_wheel-Debug-687e844f6a1d3fdaf715.json",
+					"name" : "indi_simulator_wheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_skycommander_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_skycommander_telescope-Debug-67f8bc2866bcd1273e7c.json",
+					"name" : "indi_skycommander_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_skysafari::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_skysafari-Debug-81e93e22b4c4f57adb12.json",
+					"name" : "indi_skysafari",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "indi_skywatcherAltAzMount::@f23f396fb071564bf837",
+					"jsonFile" : "target-indi_skywatcherAltAzMount-Debug-6917cfa7f832d5911986.json",
+					"name" : "indi_skywatcherAltAzMount",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "indi_skywatcherAltAzSimple::@f23f396fb071564bf837",
+					"jsonFile" : "target-indi_skywatcherAltAzSimple-Debug-f2e3245f7f65a7a0511b.json",
+					"name" : "indi_skywatcherAltAzSimple",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_smartfocus_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_smartfocus_focus-Debug-35f875ea409e5acf30b6.json",
+					"name" : "indi_smartfocus_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_snapcap::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_snapcap-Debug-766c1519c505896bce48.json",
+					"name" : "indi_snapcap",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_sqm_weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_sqm_weather-Debug-2e486ddbfd23ef3ed2b2.json",
+					"name" : "indi_sqm_weather",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_star2000::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_star2000-Debug-933a2ed5d916c73460a1.json",
+					"name" : "indi_star2000",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_steeldrive2_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_steeldrive2_focus-Debug-b06963d8d31891458474.json",
+					"name" : "indi_steeldrive2_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_steeldrive_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_steeldrive_focus-Debug-f255129e64fc72bf8c7e.json",
+					"name" : "indi_steeldrive_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_synscan_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_synscan_telescope-Debug-858136257cc9085846e3.json",
+					"name" : "indi_synscan_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_synscanlegacy_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_synscanlegacy_telescope-Debug-8931cca21cfc7d7f8d50.json",
+					"name" : "indi_synscanlegacy_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_tcfs_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_tcfs_focus-Debug-3f00258cee75015fbfda.json",
+					"name" : "indi_tcfs_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_temma_telescope::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_temma_telescope-Debug-677dc752a6ad74a77700.json",
+					"name" : "indi_temma_telescope",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_trutech_wheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_trutech_wheel-Debug-e5ff0271aea97873cb5a.json",
+					"name" : "indi_trutech_wheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_usbdewpoint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_usbdewpoint-Debug-6263811b82a636041411.json",
+					"name" : "indi_usbdewpoint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_usbfocusv3_focus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_usbfocusv3_focus-Debug-f39c53232af78999394c.json",
+					"name" : "indi_usbfocusv3_focus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_v4l2_ccd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_v4l2_ccd-Debug-f3591706552bcc8dd4e9.json",
+					"name" : "indi_v4l2_ccd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_vantage_weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_vantage_weather-Debug-e17b14cbfd1d37a39c11.json",
+					"name" : "indi_vantage_weather",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_watchdog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_watchdog-Debug-61d1d4d48ed767198d32.json",
+					"name" : "indi_watchdog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_watcher_weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_watcher_weather-Debug-eb52442dd9f231c91823.json",
+					"name" : "indi_watcher_weather",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_weather_safety_proxy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_weather_safety_proxy-Debug-7fbd2872d2a64ef35191.json",
+					"name" : "indi_weather_safety_proxy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indi_xagyl_wheel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indi_xagyl_wheel-Debug-13751dec2cbabba24750.json",
+					"name" : "indi_xagyl_wheel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indiclient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indiclient-Debug-928d70d7eb7d35d34258.json",
+					"name" : "indiclient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indidriver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indidriver-Debug-22d76a7062f3816c2b78.json",
+					"name" : "indidriver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indidriverstatic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indidriverstatic-Debug-3d4f5d0572b38bcbe04d.json",
+					"name" : "indidriverstatic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indilx200::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indilx200-Debug-49db7b0729e659334870.json",
+					"name" : "indilx200",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "indiserver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-indiserver-Debug-01654f717ca614d8d082.json",
+					"name" : "indiserver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "practice_device::@35192d1c81be28df82ec",
+					"jsonFile" : "target-practice_device-Debug-298f53c3d2715a75a25e.json",
+					"name" : "practice_device",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "tutorial_client::@f55e3d52f90efa2e2ea8",
+					"jsonFile" : "target-tutorial_client-Debug-360ab01eb8649066995b.json",
+					"name" : "tutorial_client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "tutorial_dome::@9eb40e260d9f7fbf179b",
+					"jsonFile" : "target-tutorial_dome-Debug-da50596e8916bf8ddbc2.json",
+					"name" : "tutorial_dome",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "tutorial_eight::@69cc54bd639a37ab0280",
+					"jsonFile" : "target-tutorial_eight-Debug-788f8faf197fb4e18e6a.json",
+					"name" : "tutorial_eight",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "tutorial_four::@9d8ece54281cb144802f",
+					"jsonFile" : "target-tutorial_four-Debug-c893b847922ca698f9c3.json",
+					"name" : "tutorial_four",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "tutorial_one::@3d2aed413be9bbef1e09",
+					"jsonFile" : "target-tutorial_one-Debug-faf0dafe57e8530abbc0.json",
+					"name" : "tutorial_one",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "tutorial_rain::@9eb40e260d9f7fbf179b",
+					"jsonFile" : "target-tutorial_rain-Debug-f82ab2e2f5d6ef489546.json",
+					"name" : "tutorial_rain",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "tutorial_seven::@faf2a54540c6cf7f7790",
+					"jsonFile" : "target-tutorial_seven-Debug-a00e1bb666faddb45063.json",
+					"name" : "tutorial_seven",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "tutorial_three::@4183bd14b436d5312120",
+					"jsonFile" : "target-tutorial_three-Debug-ecba0aec319fcba7724a.json",
+					"name" : "tutorial_three",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "tutorial_two::@dcb8b2bbba8a10a108c6",
+					"jsonFile" : "target-tutorial_two-Debug-ed39aef6c75bdc6769d9.json",
+					"name" : "tutorial_two",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/aziz/Projects/build-indi-Desktop-Debug",
+		"source" : "/home/aziz/Projects/indi"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

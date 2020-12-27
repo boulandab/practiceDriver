@@ -1,0 +1,257 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "examples/tutorial_six/tutorial_client"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"add_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"examples/tutorial_six/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 132,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 162,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 164,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 165,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 306,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 308,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 310,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 311,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 315,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -Wa,--noexecstack  -Wall -Wextra -Wno-unused-but-set-variable -Wno-format-truncation -g -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "GIT_TAG_STRING=\"v1.8.7-29-g5a8c8b54\""
+				},
+				{
+					"backtrace" : 6,
+					"define" : "WITH_ENCLEN"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/aziz/Projects/build-indi-Desktop-Debug/examples/tutorial_six"
+				},
+				{
+					"path" : "/home/aziz/Projects/indi/examples/tutorial_six"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/aziz/Projects/indi"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/aziz/Projects/build-indi-Desktop-Debug"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/aziz/Projects/indi/libs"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/aziz/Projects/indi/libs/indibase"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/aziz/Projects/indi/libs/dsp"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/aziz/Projects/indi/libs/stream"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/usr/include/libnova"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/usr/include/libusb-1.0"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/home/aziz/Projects/indi/libs/webcam"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "indiclient::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "tutorial_client::@f55e3d52f90efa2e2ea8",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -Wa,--noexecstack  -Wall -Wextra -Wno-unused-but-set-variable -Wno-format-truncation -g -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-z,nodump -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -pie    -rdynamic",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "../../libindiclient.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lz",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lnova",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "tutorial_client",
+	"nameOnDisk" : "tutorial_client",
+	"paths" : 
+	{
+		"build" : "examples/tutorial_six",
+		"source" : "examples/tutorial_six"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "examples/tutorial_six/tutorial_client.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

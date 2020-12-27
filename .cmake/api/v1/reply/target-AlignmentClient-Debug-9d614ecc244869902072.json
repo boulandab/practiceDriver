@@ -1,0 +1,268 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "libs/indibase/alignment/libindiAlignmentClient.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"install",
+			"add_definitions",
+			"set_property",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"libs/indibase/alignment/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 80,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 89,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 132,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 162,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 164,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 165,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 306,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 308,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 310,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 311,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 315,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -Wa,--noexecstack  -Wall -Wextra -Wno-unused-but-set-variable -Wno-format-truncation -g -g"
+				},
+				{
+					"fragment" : "-fPIC"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "GIT_TAG_STRING=\"v1.8.7-29-g5a8c8b54\""
+				},
+				{
+					"backtrace" : 5,
+					"define" : "INDI_MATH_PLUGINS_DIRECTORY=\"/usr/lib/x86_64-linux-gnu/indi/MathPlugins\""
+				},
+				{
+					"backtrace" : 6,
+					"define" : "WITH_ENCLEN"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/aziz/Projects/build-indi-Desktop-Debug/libs/indibase/alignment"
+				},
+				{
+					"path" : "/home/aziz/Projects/indi/libs/indibase/alignment"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/aziz/Projects/indi"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/aziz/Projects/build-indi-Desktop-Debug"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/aziz/Projects/indi/libs"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/aziz/Projects/indi/libs/indibase"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/aziz/Projects/indi/libs/dsp"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/aziz/Projects/indi/libs/stream"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/usr/include/libnova"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/usr/include/libusb-1.0"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/home/aziz/Projects/indi/libs/webcam"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"id" : "AlignmentClient::@f23f396fb071564bf837",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib/x86_64-linux-gnu"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr"
+		}
+	},
+	"name" : "AlignmentClient",
+	"nameOnDisk" : "libindiAlignmentClient.a",
+	"paths" : 
+	{
+		"build" : "libs/indibase/alignment",
+		"source" : "libs/indibase/alignment"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/indibase/alignment/AlignmentSubsystemForClients.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/indibase/alignment/ClientAPIForAlignmentDatabase.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "libs/indibase/alignment/ClientAPIForMathPluginManagement.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "libs/indibase/alignment/Common.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

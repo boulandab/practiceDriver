@@ -1,0 +1,314 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "libs/indibase/alignment/indi_skywatcherAltAzSimple"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"install",
+			"target_link_libraries",
+			"add_definitions",
+			"set_property",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"libs/indibase/alignment/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 172,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 175,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 173,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 2,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 132,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 162,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 164,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 165,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 306,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 308,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 310,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 311,
+				"parent" : 4
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 315,
+				"parent" : 4
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : " -std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -Wa,--noexecstack  -Wall -Wextra -Wno-unused-but-set-variable -Wno-format-truncation -g -g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "GIT_TAG_STRING=\"v1.8.7-29-g5a8c8b54\""
+				},
+				{
+					"backtrace" : 6,
+					"define" : "INDI_MATH_PLUGINS_DIRECTORY=\"/usr/lib/x86_64-linux-gnu/indi/MathPlugins\""
+				},
+				{
+					"backtrace" : 7,
+					"define" : "WITH_ENCLEN"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/home/aziz/Projects/build-indi-Desktop-Debug/libs/indibase/alignment"
+				},
+				{
+					"path" : "/home/aziz/Projects/indi/libs/indibase/alignment"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/aziz/Projects/indi"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/aziz/Projects/build-indi-Desktop-Debug"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/aziz/Projects/indi/libs"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/aziz/Projects/indi/libs/indibase"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/aziz/Projects/indi/libs/dsp"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/home/aziz/Projects/indi/libs/stream"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/usr/include/libnova"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/usr/include/libusb-1.0"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/aziz/Projects/indi/libs/webcam"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "indidriver::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "indi_skywatcherAltAzSimple::@f23f396fb071564bf837",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-std=c++11 -D_FORTIFY_SOURCE=2 -fstack-protector-all -fPIE -Wa,--noexecstack  -Wall -Wextra -Wno-unused-but-set-variable -Wno-format-truncation -g -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-z,nodump -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -pie    -rdynamic",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/aziz/Projects/build-indi-Desktop-Debug:",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "../../../libindidriver.so.1.8.8",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lusb-1.0",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lnova",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lcfitsio",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lz",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-ljpeg",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lfftw3",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "indi_skywatcherAltAzSimple",
+	"nameOnDisk" : "indi_skywatcherAltAzSimple",
+	"paths" : 
+	{
+		"build" : "libs/indibase/alignment",
+		"source" : "libs/indibase/alignment"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "drivers/telescope/skywatcherAltAzSimple.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "drivers/telescope/skywatcherAPI.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}
